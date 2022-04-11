@@ -1,0 +1,24 @@
+{
+  "name": "gittext",
+  "version": "1.0.0",
+  "description": "this is the front end course from soursera",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoji099/testCoursera.git"
+  },
+  "author": "manoji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manoji099/testCoursera/issues"
+  },
+  "homepage": "https://github.com/manoji099/testCoursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
